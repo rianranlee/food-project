@@ -1,2 +1,2 @@
-Project created using React. 
+Web App created on React using functional components and hooks.\
 [Demo](https://rianranlee.github.io/react-food/)
